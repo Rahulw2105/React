@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "parcel": "^2.10.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "react",
+  "version": "1.0.0",
+  "description": "creating react app with pacel ",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul wankhede",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahulw2105/React.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rahulw2105/React/issues"
+  },
+  "homepage": "https://github.com/Rahulw2105/React#readme"
+}
