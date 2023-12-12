@@ -7,8 +7,9 @@
   "name": "react",
   "version": "1.0.0",
   "description": "creating react app with pacel ",
-  
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rahul wankhede",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Rahulw2105/React/issues"
   },
-  "homepage": "https://github.com/Rahulw2105/React#readme"
+  "homepage": "https://github.com/Rahulw2105/React#readme",
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
 }
